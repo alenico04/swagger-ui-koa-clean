@@ -1,0 +1,18 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "John Doe",
+      "email": "john@example.com",
+      "role": "admin",
+      "createdAt": "2023-12-20T00:00:00.000Z"
+    },
+    {
+      "id": "2",
+      "name": "Jane Smith",
+      "email": "jane@example.com",
+      "role": "user",
+      "createdAt": "2023-12-20T00:00:00.000Z"
+    }
+  ]
+}
